@@ -1,0 +1,12 @@
+{
+  "name": "linux-av-manager",
+  "version": "1.0.0",
+  "description": "Manage antivirus, rootkit-detection, and UFW host firewall on a Linux desktop — install ClamAV/ClamTk/rkhunter (core) plus optional advanced tools (Lynis, chkrootkit, AIDE, debsecan), keep definitions current, run scans, schedule periodic runs, and configure conservative desktop-tuned UFW rules. Scan results stored in a user-defined folder set up on first run.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Linux-AV-Manager-Plugin",
+  "license": "MIT",
+  "keywords": ["linux", "security", "antivirus", "clamav", "rootkit", "lynis", "ufw", "firewall"]
+}
