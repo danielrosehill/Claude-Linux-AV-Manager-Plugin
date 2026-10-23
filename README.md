@@ -1,3 +1,5 @@
+> **Superseded (2026-10-23).** This plugin has been merged into [`ubuntu-security`](https://github.com/danielrosehill/Ubuntu-Security) and removed from the marketplace. Its README maps every command here to its replacement. This repo is kept for reference only.
+
 # Linux AV Manager
 
 Claude Code plugin for managing antivirus, rootkit-detection, and host firewall on a Linux desktop. Layered approach: install a small "core" set first (ClamAV, ClamTk, rkhunter), add advanced tools (Lynis, chkrootkit, AIDE) on top when wanted, set up UFW with desktop-appropriate defaults, keep definitions current, run scans, and schedule periodic runs.
